@@ -24,6 +24,21 @@ footer {
 
 /* mobile styles */
 
+#container {
+    margin: 10px;
+}
+
+P {
+    margin: 10px;
+    padding: 10px;
+}
+
+h1,
+h2,
+h3 {
+    text-align: center;
+}
+
 nav {
     margin-bottom: 10px;
     text-align: center;
@@ -48,4 +63,21 @@ nav li a {
     font-weight: bold;
     text-decoration: none;
     color: darkgray;
+}
+
+header { 
+    padding: 20px;
+}
+
+section {
+    margin: 10px 0;
+    padding: 10px;
+}
+
+multi_col {
+    background-color: aqua;
+}
+
+.col {
+    margin: 10px; 
 }
