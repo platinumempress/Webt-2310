@@ -6,7 +6,7 @@ padding: 0;
 
 
 body {
-    background-color: lightgoldenrodyellow;
+    background-color: mistyrose;
 }
 
 img {
@@ -19,7 +19,7 @@ nav,
 header,
 section,
 footer {
-    background-color: mistyrose;
+    background-color: lightgoldenrodyellow;
 }
 
 /* mobile styles */
