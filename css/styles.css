@@ -6,7 +6,7 @@ padding: 0;
 
 
 body {
-    background-color: bisque;
+    background-color: mistyrose;
 }
 
 img {
@@ -19,7 +19,7 @@ nav,
 header,
 section,
 footer {
-    background-color: aliceblue;
+    background-color: lightgoldenrodyellow;
 }
 
 /* mobile styles */
@@ -55,15 +55,15 @@ nav li {
 
 nav li a {
     display: block;
-    background-color: blueviolet;
+    background-color: darkorchid;
     margin: 10px 0;
     height: 40px ; 
     line-height: 40px;
     font-size: 1.5em;
     font-weight: bold;
     text-decoration: none;
-    color: darkgray;
-    border-bottom: 4px solid aliceblue;
+    color: rgb(42, 63, 63);
+    border-bottom: 4px solid lightgoldenrodyellow;
 }
 
 header { 
