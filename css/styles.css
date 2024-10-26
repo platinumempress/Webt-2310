@@ -19,17 +19,17 @@ nav,
 header,
 section,
 footer {
-    background-color: lightgoldenrodyellow;
+    background-color: cornsilk;
 }
 
-/* mobile styles */
+/* Mobile styles */
 
 #container {
     margin: 10px;
 }
 
 P {
-    margin: 10px;
+    
     padding: 10px;
 }
 
@@ -55,7 +55,7 @@ nav li {
 
 nav li a {
     display: block;
-    background-color: darkorchid;
+    background-color: rgb(235, 56, 56);
     margin: 10px 0;
     height: 40px ; 
     line-height: 40px;
@@ -75,8 +75,8 @@ section {
     padding: 10px;
 }
 
-multi_col {
-    background-color: aqua;
+#multi_col {
+    background-color: lightgoldenrodyellow
 }
 
 .col {
@@ -84,12 +84,12 @@ multi_col {
 }
 
 #lower_area {
-    background-color: aqua;
+    background-color: mistyrose;
     padding: 10px;
 }
 
 .col {
-    margin: 10px 0;
+    margin: 5px 0;
     padding: 10px;
     border-bottom: 4px solid black;
 }
