@@ -134,7 +134,7 @@ nav {
     margin-top: 60px;
 }
 .col img {
-    width: 70%;
+    width: 40%;
 }
 
 }
@@ -143,7 +143,7 @@ nav {
 
 @media (min-width: 1024px) {
     nav li a {
-        background-color: aliceblue;
+        background-color: cornsilk;
     }
 
     na li a  hover {
