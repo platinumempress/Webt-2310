@@ -147,7 +147,7 @@ nav {
     }
 
     na li a  hover {
-        border-bottom: 4px solid maroon;
+        border-bottom: 4px solid lightgray;
     }
 
 #container {
