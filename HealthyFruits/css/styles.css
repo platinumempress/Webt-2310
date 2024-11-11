@@ -158,6 +158,10 @@ nav {
     #lower_area {
         display: flex;
     }
+    
+    .col {
+        display: block;
+    }  
 
     .col img {
         width: 75%;
