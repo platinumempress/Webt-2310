@@ -15,9 +15,9 @@ img {
     margin: 0 auto;
 } 
 
-nav,
+nav, gap
 header,
-section,
+section 
 footer {
     background-color: cornsilk;
 }
@@ -34,7 +34,7 @@ P {
 }
 
 h1,
-h2,
+h2, 
 h3 {
     text-align: center;
 }
