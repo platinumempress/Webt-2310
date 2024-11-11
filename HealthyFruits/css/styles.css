@@ -42,45 +42,44 @@ h3 {
 nav {
     margin-bottom: 10px;
     text-align: center;
-    padding: 5px;
+    padding: 1px;
 }
 
 nav ul {
     list-style-type: none;
+    border-bottom: 4px solid burlywood;
 }
 
 nav li {
     display: block;
+    
 }
 
 nav li a {
     display: block;
-    background-color: rgb(235, 56, 56);
+    background-color: lightgray;
     margin: 10px 0;
     height: 40px ; 
     line-height: 40px;
     font-size: 1.5em;
     font-weight: bold;
     text-decoration: none;
-    color: rgb(42, 63, 63);
-    border-bottom: 4px solid lightgoldenrodyellow;
+    color: rgb(4, 4, 4);
+    border-bottom: 4px solid cornsilk;
 }
 
 header { 
     padding: 20px;
+    border-bottom: 4px solid burlywood;
 }
 
-section {
-    margin: 10px 0;
-    padding: 10px;
+section h2 {
+    margin: 3px 0;
+    padding: 1px;
 }
 
 #multi_col {
-    background-color: lightgoldenrodyellow;
-}
-
-.col {
-    margin: 10px; 
+    background-color: cornsilk;
 }
 
 #lower_area {
@@ -89,19 +88,21 @@ section {
 }
 
 .col {
-    margin: 5px 0;
-    padding: 10px;
+    margin: 3px 0;
+    padding: 3px;
     border-bottom: 4px solid black;
 }
 
 .col img {
- width: 75%;   
+ width: 75%; 
+
 }
 
 footer {
     padding: 40px 0;
     text-align: center;
     margin-top: 10px;
+    background-color: cornsilk;
 }
 
 /* tablet styles */
