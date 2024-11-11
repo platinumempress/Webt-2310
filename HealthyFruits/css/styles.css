@@ -113,7 +113,7 @@ nav {
     padding: 20px;
 }
 
-    nav li{
+    nav li {
     display: inline-block;
 } 
 
@@ -122,20 +122,19 @@ nav {
     border-radius: 10px;
 }
 
-multi_col {
+#multi_col {
     display: flex;
 }
 
 .col {
-    width: 50%;
-    
+    width: 70%;
 }
 
 .col_text {
     margin-top: 60px;
 }
 .col img {
-    width: 40%;
+    width: 70%;
 }
 
 }
