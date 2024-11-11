@@ -146,21 +146,21 @@ nav {
         background-color: cornsilk;
     }
 
-    nav li a  hover {
+    nav li a:hover {
         border-bottom: 4px solid lightgray;
     }
 
-#container {
-  width: 75%;
-  margin: 0 auto;  
-}
+    #container {
+        width: 75%;
+        margin: 0 auto;  
+    }
 
-#lower_area {
-    display: flex;
-}
+    #lower_area {
+        display: flex;
+    }
 
-.col img {
-    width: 75%;
-}
+    .col img {
+        width: 75%;
+    }
 
 }
