@@ -1,0 +1,18 @@
+body {
+    background-color: midnightblue;
+    color: whitesmoke;
+}
+
+/* classes */
+
+/* ids */
+
+#header_img {
+    background-image: url(../images/header_img.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#header {
+    width: 50%;
+}
