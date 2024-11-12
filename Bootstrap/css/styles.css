@@ -1,9 +1,14 @@
 body {
     background-color: midnightblue;
     color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 /* classes */
+
+.navbar {
+    background-color: midnightblue;
+}
 
 /* ids */
 
