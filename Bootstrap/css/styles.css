@@ -1,6 +1,6 @@
 body {
     background-color: midnightblue;
-    color: whitesmoke;
+   
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -13,6 +13,7 @@ body {
 /* ids */
 
 #header_img {
+    #header_img_resize 
     background-image: url(../images/header_img.jpg);
     background-size: cover;
     background-position: center;
