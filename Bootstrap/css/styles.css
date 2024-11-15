@@ -13,12 +13,35 @@ body {
 /* ids */
 
 #header_img {
-    img id=class:"img-fluid"; 
-    background-image: url(../images/header_img.jpg);
+    background-image: url(../images/Ciprini.jpg);
     background-size: cover;
     background-position: center;
 }
 
 #header {
     width: 50%;
+}
+
+#Welcome {
+    background-image: url(../images/seafish.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#W2pg1 {
+    background-image: url(../images/brain.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#W3pg1 {
+    background-image: url(../images/Coral.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+@media (min-width: 1024px) {
+#panel_bg {
+    width: 50%;
+}
 }
