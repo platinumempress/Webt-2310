@@ -18,6 +18,30 @@ body {
     background-position: center;
 }
 
+#header_img {
+    background-image: url(../images/Australia\ .jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#header_img {
+    background-image: url(../images/hero.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#header_img {
+    background-image: url(../images/reeffish.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#header_img {
+    background-image: url(../images/colorful.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
 #header {
     width: 50%;
 }
