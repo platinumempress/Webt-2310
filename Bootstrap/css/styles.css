@@ -12,8 +12,8 @@ body {
 
 /* ids */
 
-#header1_img {
-    background-image: url(../images/header1_img.jpg);
+#header_img {
+    background-image: url(../images/Ciprini.jpg);
     background-size: cover;
     background-position: center;
 }
