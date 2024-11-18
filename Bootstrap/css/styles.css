@@ -12,26 +12,26 @@ body {
 
 /* ids */
 
-#header_img {
-    background-image: url(../images/Ciprini.jpg);
+#header1_img {
+    background-image: url(../images/header1_img.jpg);
     background-size: cover;
     background-position: center;
 }
 
-#header_img {
-    background-image: url(../images/Australia\ .jpeg);
+#header2_img {
+    background-image: url(../images/header_2.jpeg);
     background-size: cover;
     background-position: center;
 }
 
-#header_img {
-    background-image: url(../images/hero.jpeg);
+#header3_img {
+    background-image: url(../images/header3_img.jpeg);
     background-size: cover;
     background-position: center;
 }
 
-#header_img {
-    background-image: url(../images/reeffish.jpeg);
+#header4_img {
+    background-image: url(../images/header4_img.jpeg);
     background-size: cover;
     background-position: center;
 }
