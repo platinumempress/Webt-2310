@@ -1,7 +1,7 @@
 body {
     background-color: midnightblue;
     color: whitesmoke;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family:'Josefin Sans', sans-serif;
 }
 
 /* classes */
@@ -19,7 +19,7 @@ body {
 }
 
 #header2_img {
-    background-image: url(../images/header_2.jpeg);
+    background-image: url(../images/Australia.jpeg);
     background-size: cover;
     background-position: center;
 }
@@ -52,8 +52,27 @@ body {
     background-position: center;
 }
 
+#Wel {
+    background-image: url(../images/Coralreefs.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#el {
+    background-image: url(../images/star.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+
 #W2pg1 {
     background-image: url(../images/brain.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#W2pg2 {
+    background-image: url(../images/ecosystem.jpeg);
     background-size: cover;
     background-position: center;
 }
