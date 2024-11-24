@@ -1,0 +1,13 @@
+{
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.preferences": {
+
+    },
+    "emmet.useInlineCompletions": true,
+    "editor.quickSuggestions": {
+        "other": "inline",
+        "comments": "inline",
+        "strings": "inline"
+    },
+    "files.autoGuessEncoding": false
+}
