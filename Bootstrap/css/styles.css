@@ -46,6 +46,13 @@ body {
     width: 50%;
 }
 
+.modal-title,
+.form-label,
+.form-check-label {
+    font-weight: bold; /* Makes the text bold */
+    color: #000; /* Optional: Makes the text color black */
+}
+
 #Welcome {
     background-image: url(../images/seafish.jpeg);
     background-size: cover;

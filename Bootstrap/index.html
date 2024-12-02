@@ -68,7 +68,7 @@
                View
               </a>
               <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="View.html">Video</a></li>
+                  <li><a class="dropdown-item" href="Video.html">Video</a></li>
                   <li><a class="dropdown-item" href="https://www.youtube.com/watch">ABC Science</a></li>
                   <li><a class="dropdown-item" href="https://www.youtube.com/watch?v=ZiULxLLP32s">National Geographic</a>
                   </li>
@@ -80,48 +80,83 @@
                 News
               </a>
               <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="News.html">Contact</a></li>
+                  <li><a class="dropdown-item" href="Chairity.html">Contact</a></li>
                   <li><a class="dropdown-item" href="https://www.worldwildlife.org/pages/everything-you-need-to-know-about-coral-bleaching-and-how-we-can-stop-it">WorldWildlife.Org</a>
                   </li>
               </ul>
              </li> 
             </ul>
-            <a href="View.html" class="btn btn-outline-light rounded-0 mx-auto d-block mt-3">Donate</a>
+            <a href="Video.html." class="btn btn-outline-light rounded-0 mx-auto d-block mt-3">Donate</a>
          </div> 
       </div>         
     </nav>
-  </div>  
-  <div id="header_img" class="bg-dark rounded-0">
-    <div class=".container-fluid py-5">
-      <img id="header" class="d-block mx-auto img-fluid" src="images/Ciprini.svg" 
-      alt="Coral logo">
-      <a href="Community.html" class="btn btn-light rounded-0 mx-auto d-block mt-3">Learn More</a>  
-    </div>
-  </div> 
-  <hr>
-  <div class="row">
-     <div class="col-md-6 col-lg-4">
-        <h2 class="text-center">Coral</h2>
+    </div> 
+    <div id="header_img" class="p-5 mb-4 bg-dark rounded-0">
+      <div class="container-fluid py-5">
+       <img id="header_img" class="d-block mx-auto" class="text-center">
+        <div class="text-center">
+        <a href="Community.html" class="btn btn-outline-light rounded-0 mt-3 w-auto">Learn More</a>
+      </div>
+     </div>
+     </div> 
+     <hr>
+     <!-- Button trigger modal -->
+     <button type="button" class="btn btn-outline-light" data-bs-toggle="modal" data-bs-target="#exampleModal">
+     Sign-in</button>
+
+     <!-- Modal -->
+     <div id="modal-container">
+       <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+         <div class="modal-dialog modal-dialog-centered">
+           <div class="modal-content">
+             <div class="modal-header">
+               <h1 class="modal-title fs-5" id="exampleModalLabel">Sign-in</h1>
+               <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+             </div>
+             <div class="modal-body">
+               <form>
+                 <div class="mb-3">
+                   <label for="exampleInputEmail1" class="form-label">Email address</label>
+                   <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                 </div>
+                 <div class="mb-3">
+                   <label for="exampleInputPassword1" class="form-label">Password</label>
+                   <input type="password" class="form-control" id="exampleInputPassword1">
+                 </div>
+                 <div class="mb-3 form-check">
+                   <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                   <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                 </div>
+               </form> 
+             </div>
+             <div class="modal-footer">
+               <button type="button" class="btn btn-outline-dark" data-bs-dismiss="modal">Close</button>
+               <button type="button" class="btn btn-outline-primary">Submit</button>
+             </div>
+           </div>
+         </div>
+       </div>
+     <hr  
+     <div class="row">
+       <div class="col-md-6 col-lg-4">
+        <h2 class="text-center">Coral Bioluminescence</h2>
         <img class="img-fluid my-3 rounded-4" src="images/most_coral.jpeg" alt="pinkcoral"> 
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates at labore ipsum ad voluptas velit 
-                beatae illo maiores accusamus nulla? Laboriosam nihil officia nesciunt ullam odit sapiente quidem 
-                obcaecati harum.</p>    
+        <p>Bioluminescence in coral is when corals emit light through chemical reactions. This glow can attract 
+           prey, deter predators, or aid symbiotic relationships. These light displays enhance reef beauty and play a crucial role in their ecological dynamics.</p>    
       </div>
       <div class="col-md-6 col-lg-4">
-        <h2 class="text-center">Reefs</h2>
-        <img class="img-fluid my-3 rounded-4" src="images/light2.png" alt="purple coral"> 
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates at labore ipsum ad voluptas velit 
-                beatae illo maiores accusamus nulla? Laboriosam nihil officia nesciunt ullam odit sapiente quidem
-                obcaecati harum.</p>    
+        <h2 class="text-center">Around the World</h2>
+        <img class="img-fluid my-3 rounded-4" src="images/light2.png" alt="purple coral">
+        <p>Coral reefs are found in tropical and subtropical oceans worldwide, from Australia's Great Barrier Reef
+           to the Maldives' atolls. These vibrant underwater cities host diverse marine life, providing shelter, food, and breeding grounds for countless species.</p>    
       </div>
       <div class="col-lg-4">
-        <h2 class="text-center">Habitats</h2>
-        <img class="img-fluid my-3 rounded-4" src="images/GBReefPark.jpeg" alt="clam coral"> 
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates at labore ipsum ad voluptas velit 
-                beatae illo maiores accusamus nulla? Laboriosam nihil officia nesciunt ullam odit sapiente quidem 
-                obcaecati harum.</p>    
+        <h2 class="text-center">Reefs as a Habitat</h2>
+        <img class="img-fluid my-3 rounded-4" src="images/GBReefPark.jpeg" alt="clam coral">
+        <p>Often called the "rainforests of the sea," coral reefs boast rich biodiversity. They provide essential 
+           habitats for many marine organisms, offering protection, breeding sites, and abundant food resources, crucial for the survival of numerous species.</p>     
       </div>
-    </div>
+       </div>
     <hr>
     <div class="row"> 
       <div class="col-lg-12">
@@ -131,21 +166,22 @@
     <hr>
     <div id="Welcome" class="p-5 mb-4 bg-light rounded-0">
       <div id="panel_bg" class="container-fluid py-5 bg-translucent bg-opacity-75 rounded-4">
-        <h3>Welcome to the World of Coral Reefs</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor esse placeat necessitatibus libero 
-                nesciunt rem, suscipit maiores, error consequuntur expedita quod quia impedit quae animi praesentium
-                assumenda alias voluptatem fugit?</p>                 
-        <a href="Reefs.html" class="btn btn-light rounded-0 mx-auto d-block mt-3">Learn More</a>                      
+        <h3>Coral Reefs' Function in the World</h3>
+        <p>Coral reefs are vital for our planet's health. They protect coastlines from erosion, support local economies 
+           through tourism and fishing, contribute to global biodiversity, and are sources of new medicines. Their ecological services are invaluable, highlighting the need for conservation.</p>                 
+        <a href="Reefs.html" class="btn btn-light rounded-0 mt-3 w-auto">Learn More</a>                      
        </div>
       </div>
       <hr>
     <div id="W2pg1" class="p-5 mb-4 bg-light rounded-0">
       <div id="panel_bg2" class="container-fluid py-5 bg-translucent bg-opacity-75 rounded-4">
-        <h3>Reefs</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor esse placeat necessitatibus libero 
-                nesciunt rem, suscipit maiores, error consequuntur expedita quod quia impedit quae animi praesentium 
-                assumenda alias voluptatem fugit?</p>
-        <a href="https://www.worldwildlife.org/pages/everything-you-need-to-know-about-coral-bleaching-and-how-we-can-stop-it" class="btn btn-light rounded-0 mx-auto d-block mt-3">Donate</a>                
+        <h3>Dangers to the Coral Reefs</h3>
+        <p>Coral reefs are under severe threat from climate change, pollution, overfishing, and destructive practices.
+           Rising sea temperatures and ocean acidification cause widespread coral bleaching, while plastic pollution and chemical 
+           runoff cause further harm. The loss of coral reefs would devastate marine life and human communities. To help protect 
+           these vital ecosystems, please consider donating to coral reef conservation organizations. Your support can preserve 
+           these underwater treasures. Donate now to save our coral reefs!</p>
+        <a href="https://www.worldwildlife.org/pages/everything-you-need-to-know-about-coral-bleaching-and-how-we-can-stop-it" class="btn btn-light rounded-0 mt-3 w-auto">Donate</a>                
         </div>
     </div>
     <hr>
