@@ -37,7 +37,7 @@ body {
 }
 
 #header5_img {
-    background-image: url(../images/colorful.jpeg);
+    background-image: url(../images/header5_img.jpeg);
     background-size: cover;
     background-position: center;
 }
@@ -85,7 +85,13 @@ body {
 }
 
 #W3pg1 {
-    background-image: url(../images/Coral.jpeg);
+    background-image: url(../images/annie.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+#W4pg1 {
+    background-image: url(../images/crystal.jpeg);
     background-size: cover;
     background-position: center;
 }
