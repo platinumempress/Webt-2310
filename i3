@@ -202,7 +202,7 @@
                   <div class="card h-100">
                     <img src="..." class="card-img-top" alt="...">
                     <div class="card-body ">
-                        
+                        <div class="text-bg-light p-3">Light with contrasting color</div>
                       <h5 class="card-title">Card title</h5>
                       <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
                     </div>
@@ -429,128 +429,7 @@
                 <i class="fa-brands fa-youtube fs-3 p-2"></i>  
             </div>    
         </div>
-
-
-
-        <button type="button" class="btn btn-outline-light" data-bs-toggle="modal" data-bs-target="#exampleModal">
-            Sign-in
-          </button>
-          <div id="modal-container">
-            <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-              <div class="modal-dialog modal-dialog-centered">
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <h1 class="modal-title fs-5" id="exampleModalLabel">Sign-in</h1>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                  </div>
-                  <div class="modal-body">
-                    <form>
-                      <div class="mb-3">
-                      <img src="images/unsplash.jpeg" class="rounded float-start" alt="...">  
-                      </div>
-                      <div class="mb-3">
-                        <img src="images/kristin.jpeg" class="rounded float-center" alt="...">  
-                      </div>
-                      <div class="mb-3">
-                        <img src="images/wembley-.jpeg" class="rounded float-center" alt="...">  
-                      </div>
-                      <div class="mb-3 form-check">
-                        
-                      </div>
-                    </form>
-                  </div>
-                  <div class="modal-footer">
-                    <button type="button" class="btn btn-outline-dark" data-bs-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-outline-primary">View</button>
-                  </div>
-                </div>
-              </div>
-            </div>
     </div>
+</body>
 
-
-
-
-    
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/bFdPmiwZzVE?si=_pKlCmoQx-WeVwTy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ZiULxLLP32s?si=FlnLYx13iIfX9jNe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-    <button type="button" class="btn btn-secondary" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-title="Tooltip on top">
-        Tooltip on top
-      </button>
-
-
-      <nav class="navbar navbar-expand-lg bg-body-tertiary">
-        <div class="container-fluid">
-          <a class="navbar-brand" href="#">Navbar</a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarNavDropdown">
-            <ul class="navbar-nav">
-              <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Features</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="#">Pricing</a>
-              </li>
-              <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  Dropdown link
-                </a>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Action</a></li>
-                  <li><a class="dropdown-item" href="#">Another action</a></li>
-                  <li><a class="dropdown-item" href="#">Something else here</a></li>
-                </ul>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </nav>
-
-      ### Caledonia Coral Reefs
-The coral reefs of New Caledonia are among the most pristine and diverse in the world, boasting vibrant marine life and stunning underwater landscapes. These reefs are a vital part of the local ecosystem and a treasure for divers and marine biologists.
-
-### The Great Barrier Reef
-The Great Barrier Reef, located off the coast of Australia, is the world's largest coral reef system. It is renowned for its incredible biodiversity, including thousands of species of fish, corals, and other marine life, making it a UNESCO World Heritage site.
-
-### Island Coral Reefs
-Island coral reefs, found around tropical islands, provide essential habitats for marine life and protect shorelines from erosion. These reefs are often hotspots for biodiversity and are crucial for the health of island ecosystems.
-
-### Exploring Coral Reefs
-Exploring coral reefs offers a glimpse into a vibrant underwater world teeming with life. Snorkeling and diving among the reefs allow people to experience the beauty and complexity of these ecosystems firsthand.
-
-### Helping Coral Reefs
-Helping coral reefs involves reducing pollution, supporting sustainable fishing practices, and participating in reef restoration projects. Every small action can contribute to the preservation of these vital ecosystems.
-
-### Sea Turtles at Coral Reefs
-Sea turtles are frequent visitors to coral reefs, where they find food and shelter. These gentle creatures play a crucial role in maintaining the health of the reefs by grazing on seagrass and algae.
-
-### Blue Corals
-Blue corals are unique among coral species due to their striking blue color, which comes from a blue pigment in their skeletons. They add to the diversity and beauty of coral reef ecosystems.
-
-### Coral Reef Habitats
-Coral reef habitats are incredibly diverse, providing shelter, food, and breeding grounds for countless marine species. These habitats are essential for the survival of many fish, invertebrates, and other marine organisms.
-
-### Starfish at Coral Reefs
-Starfish, or sea stars, are common inhabitants of coral reefs. They play a vital role in the ecosystem by preying on other invertebrates and helping to maintain the balance of marine life on the reefs.
-
-### What People Can Do to Help Preserve Coral Reefs
-People can help preserve coral reefs by reducing their carbon footprint, avoiding single-use plastics, supporting reef-friendly businesses, and participating in conservation efforts. Every action counts in protecting these precious ecosystems.
-
-### How Coral Reefs Help the Environment
-Coral reefs help the environment by protecting coastlines from erosion, supporting marine biodiversity, and providing resources for fishing and tourism. They also contribute to the global carbon cycle and help regulate ocean chemistry.
-
-### Danger if People Do Nothing to Help the Coral Reefs
-If people do nothing to help coral reefs, these vital ecosystems could face severe degradation or collapse. This would lead to the loss of biodiversity, increased coastal erosion, and negative impacts on local economies and food security.
-
-### The Bleaching of Coral Reefs
-Coral bleaching occurs when corals expel the algae living in their tissues due to stress from factors like rising sea temperatures. This leaves the corals white and weakens their ability to survive, making them more susceptible to disease and death.
-
-### How Organizations Help Protect the Coral Reefs with a Call to Donate
-Organizations help protect coral reefs through conservation efforts, research, and restoration projects. They work to reduce threats like pollution and overfishing and promote sustainable practices. Your donation can support these vital efforts and ensure the survival of coral reefs for future generations. Donate now to make a difference!
+</html>
