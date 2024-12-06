@@ -59,6 +59,12 @@ main {
     min-height: calc(100vh - 402.06px);
 }
 
+.video-embed {
+    width: 560px;
+    height: 315px;
+    border: 0;
+}
+
 footer {
     position: fixed;
     left: 0;
