@@ -31,7 +31,7 @@ body {
 
 #W1 {
     position: relative;
-    background-image: url('images/concert1.png');
+    background-image: url('Images/concert1.png');
     background-size: cover;
     background-position: center;
     height: 300px; /* Adjust height as needed */
