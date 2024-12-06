@@ -30,10 +30,22 @@ body {
 }
 
 #W1 {
-    background-image: url(../images/Parade.png);
+    position: relative;
+    background-image: url('images/concert1.png');
     background-size: cover;
     background-position: center;
-}
+    height: 300px; /* Adjust height as needed */
+  }
+  
+  #text-overlay {
+    position: absolute;
+    top: 10px; /* Adjust as needed */
+    left: 10px; /* Adjust as needed */
+    z-index: 1;
+    color: white; /* Adjust text color for better visibility */
+  }
+  
+  
 
 .row {
     display: flex;
