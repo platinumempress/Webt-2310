@@ -29,6 +29,12 @@ body {
     font-size: 150%;
 }
 
+#W1 {
+    background-image: url(../images/Parade.png);
+    background-size: cover;
+    background-position: center;
+}
+
 .row {
     display: flex;
 }
