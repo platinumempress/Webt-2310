@@ -1,7 +1,7 @@
 #header_img {
-    background-image: url(../images/chalk.avif);
-    background-position: center;
+    background-image: url(../images/chalk.jpeg);
     background-size: cover;
+    background-position: center;
 }
 
 .header {
@@ -44,7 +44,6 @@ body {
     z-index: 1;
     color: white; /* Adjust text color for better visibility */
   }
-  
   
 
 .row {
