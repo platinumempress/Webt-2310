@@ -1,11 +1,11 @@
 #header_img_2 {
-    background-image: url(../images/chalk.avif);
+    background-image: url(../Chicimages/johnimages/chalk.avif);
     background-size: cover;
     background-position: center;
     }
 
 body {
-    background: url(../images/gradient.jpg);
+    background: url(../Chicimages/johnimages/gradient.jpg);
 }
 
 #container_1 {
@@ -68,7 +68,7 @@ img {
  }
 
 #ahbc {
-    background-image: url(../images/Dave_1.jpg);
+    background-image: url(../Chicimages/johnimages/Dave_1.jpg);
     background-size: contain;
     background-position: center;
     height: auto;
@@ -77,7 +77,7 @@ img {
 }
 
 #set {
-    background-image: url(../images/Post_Malone.jpg);
+    background-image: url(../Chicimages/johnimages/Post_Malone.jpg);
     background-size: contain;
     background-position: center;
     height: auto;
@@ -86,7 +86,7 @@ img {
 }
 
 #stch {
-    background-image: url(../images/Foo.jpg);
+    background-image: url(../Chicimages/johnimages/Foo.jpg);
     background-size: contain;
     background-position: center;
     height: auto;

@@ -1,6 +1,6 @@
 body {
     background-color: #ffdd00;
-    background: url(../images/gradient.jpg);
+    background: url(../Chicimages/dannyimages/gradient.jpg);
     color: white;
 }
  
@@ -15,14 +15,14 @@ h2{
 }
 
 #Welcome {
-    background-image: url(../images/perfomance.jpg);
+    background-image: url(../Chicimages/dannyimages/perfomance.jpg);
     background-size: cover;
     background-position: center;
     text-align: center;
 }
 
 #hello{
-    background-image: url(../images/instrument.jpg);
+    background-image: url(../Chicimages/dannyimages/instrument.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -43,13 +43,13 @@ h2{
 }
 
 #bye {
-    background-image: url(../images/mic.jpg);
+    background-image: url(../Chicimages/dannyimages/mic.jpg);
     background-size: cover;
     background-position: center;
 }
 
 #yeah {
-    background-image: url(../images/wale.jpg);
+    background-image: url(../Chicimages/dannyimages/wale.jpg);
     background-size: cover;
     background-position: center;
 }
