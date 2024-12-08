@@ -1,0 +1,114 @@
+#header_img_2 {
+    background-image: url(../images/chalk.avif);
+    background-size: cover;
+    background-position: center;
+    }
+
+body {
+    background: url(../images/gradient.jpg);
+}
+
+#container_1 {
+    text-align: center;
+}
+
+#container_2 {
+    background-color: #F2AC29;
+    text-align: center;
+    margin: 10px;
+    width: 100%;
+}
+
+H1 {
+    color: white;
+}
+
+footer {
+    width: 100%;
+    background-color: #F2AC29;
+    color: black;
+    text-align: center;
+  }
+
+img {
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.row {
+    text-align: center;
+  }
+
+.col {
+    padding: 10px;
+
+}
+
+.col_1 {
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #F2AC29;
+    width: 100%;
+    height: 90%;
+}
+
+.text {
+    font-size: 130%;
+    text-align: center;
+ }
+ 
+ .center {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+ }
+
+#ahbc {
+    background-image: url(../images/Dave_1.jpg);
+    background-size: contain;
+    background-position: center;
+    height: auto;
+    width: auto;
+
+}
+
+#set {
+    background-image: url(../images/Post_Malone.jpg);
+    background-size: contain;
+    background-position: center;
+    height: auto;
+    width: auto;
+
+}
+
+#stch {
+    background-image: url(../images/Foo.jpg);
+    background-size: contain;
+    background-position: center;
+    height: auto;
+    width: auto;
+
+}
+
+@media (min-width: 1024px) {
+
+    #panel_bg {
+        width: 50%;
+    }
+
+    #panel_bg1 {
+        width: 50%;
+    }
+    #panel_bg2 {
+        width: 50%;
+    }
+
+    #container_2 {
+        display: flex; 
+    }
+}
+
