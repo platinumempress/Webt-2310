@@ -1,0 +1,110 @@
+#header_img {
+    background-image: url(../images/chalk.avif);
+    background-position: center;
+    background-size: cover;
+}
+
+.header {
+    text-align: center;
+}
+
+#container {
+    text-align: center;
+}
+
+#navigation {
+    color: white;
+}
+
+body {
+    background-color: #0a0a08;
+    background-image: linear-gradient(red, yellow);
+    color: white;
+    background-image: url(../images/background.jpeg);
+    background-size: 4090px 14000px;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: calc(100vh - 402.06px);
+    font-size: 150%;
+}
+
+#W1 {
+    position: relative;
+    background-image: url(../images/concert1.png);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    /* Adjust height as needed */
+}
+
+#text-overlay {
+    position: absolute;
+    top: 10px;
+    /* Adjust as needed */
+    left: 10px;
+    /* Adjust as needed */
+    z-index: 1;
+    color: white;
+    /* Adjust text color for better visibility */
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
+
+main {
+    min-height: calc(100vh - 402.06px);
+}
+
+.video-embed {
+    width: 560px;
+    height: 315px;
+    border: 0;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(216, 159, 1);
+    color: black;
+    text-align: center;
+}
+
+.inline {
+    max-width: 200px;
+    max-height: 300px;
+    float: left;
+}
+
+.text {
+    font-size: 130%;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 400px;
+    max-width: 100%;
+}

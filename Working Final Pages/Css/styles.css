@@ -1,0 +1,518 @@
+#header_img_2 {
+    background-image: url(../images/chalk.avif);
+    background-size: cover;
+    background-position: center;
+}
+
+body {
+    background: url(../images/gradient.jpg);
+}
+
+#container_1 {
+    text-align: center;
+}
+
+#container_2 {
+    background-color: #F2AC29;
+    text-align: center;
+    margin: 10px;
+    width: 100%;
+}
+
+H1 {
+    color: white;
+}
+
+footer {
+    width: 100%;
+    background-color: #F2AC29;
+    color: black;
+    text-align: center;
+}
+
+img {
+    padding: 10px;
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.row {
+    text-align: center;
+}
+
+.col {
+    padding: 10px;
+}
+
+.col_1 {
+    text-align: center;
+    padding: 10px;
+    margin: 10px 0;
+    border: 2px solid #F2AC29;
+    width: 100%;
+    height: 90%;
+}
+
+.text {
+    font-size: 130%;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#ahbc {
+    background-image: url(../images/Dave_1.jpg);
+    background-size: contain;
+    background-position: center;
+    height: auto;
+    width: auto;
+}
+
+#set {
+    background-image: url(../images/Post_Malone.jpg);
+    background-size: contain;
+    background-position: center;
+    height: auto;
+    width: auto;
+}
+
+#stch {
+    background-image: url(../images/Foo.jpg);
+    background-size: contain;
+    background-position: center;
+    height: auto;
+    width: auto;
+}
+
+@media (min-width: 1024px) {
+    #panel_bg {
+        width: 50%;
+    }
+    #panel_bg1 {
+        width: 50%;
+    }
+    #panel_bg2 {
+        width: 50%;
+    }
+    #container_2 {
+        display: flex;
+    }
+} 
+
+body {
+    background-color: #ffdd00;
+    background: url(../images/gradient.jpg);
+    color: white;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+#header {
+    width: 100%;
+}
+
+#Welcome {
+    background-image: url(../images/perfomance.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+#hello {
+    background-image: url(../images/instrument.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#prohibido {
+    width: 50%;
+}
+
+#panel_bg {
+    width: 50%;
+}
+
+#panel_bg2 {
+    width: 50%;
+}
+
+#panel_bg3 {
+    width: 50%;
+}
+
+#bye {
+    background-image: url(../images/mic.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#yeah {
+    background-image: url(../images/wale.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#noo {
+    width: 50%;
+}
+
+#ramune {
+    width: 300px;
+    margin: 20px;
+}
+
+#ramuno {
+    width: 300px;
+    margin: 20px;
+}
+
+#ramun {
+    width: 300px;
+    margin: 20px;
+}
+
+#carouselExampleFade {
+    max-width: 100%;
+    margin: auto;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: auto;
+}
+
+.carousel-inner {
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel-item {
+    text-align: center;
+}
+
+/*Classes*/
+
+.img-fluid {
+    width: 100% !important;
+    height: 200px !important;
+    object-fit: cover !important;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.navbar a {
+    color: #732922;
+}
+
+.navbar li a:hover {
+    background-color: #98c1d9;
+}
+
+.navbar-toggler {
+    color: white;
+    border-color: #98c1d9;
+    background-color: #fff;
+}
+
+.dropdown-item {
+    background-color: white;
+}
+
+.nav-link.active {
+    color: #732922 !important;
+}
+
+.header {
+    width: fit-content;
+}
+
+.modal-title {
+    color: black;
+}
+
+.modal-body {
+    color: black;
+}
+
+.card-title {
+    color: #fff;
+}
+
+.card-text {
+    color: #fff;
+}
+
+.card {
+    object-position: center;
+}
+
+.card {
+    background-color: #606c38;
+}
+
+.btn {
+    color: #732922;
+}
+
+.btn:hover {
+    background-color: #c1fba4;
+}
+
+img,
+.container-fluid {
+    max-width: 100%;
+    text-align: justify;
+}
+
+table {
+    width: 100%;
+    background-color: #f6f6f646;
+}
+
+th,
+td {
+    border: 2px solid #af0a0a;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #bd0404;
+}
+
+/*tablet css*/
+
+@media (max-width: 768px) {
+    #header_img {
+        background-size: cover;
+        background-position: center;
+    }
+    #header {
+        width: 100%;
+        object-fit: cover !important;
+    }
+}
+
+/*desktop css*/
+
+@media (min-width:1024px) {
+    #panel_bg {
+        width: 50%;
+    }
+}
+
+img {
+    max-width: 100%;
+}  
+
+#header_img {
+    background-image: url(../images/chalk.avif);
+    background-position: center;
+    background-size: cover;
+}
+
+.header {
+    text-align: center;
+}
+
+#container {
+    text-align: center;
+}
+
+#navigation {
+    color: white;
+}
+
+body {
+    background-color: #0a0a08;
+    background-image: linear-gradient(red, yellow);
+    color: white;
+    background-image: url(../images/background.jpeg);
+    background-size: 4090px 14000px;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: calc(100vh - 402.06px);
+    font-size: 150%;
+}
+
+#W1 {
+    position: relative;
+    background-image: url(../images/concert1.png);
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    /* Adjust height as needed */
+}
+
+#text-overlay {
+    position: absolute;
+    top: 10px;
+    /* Adjust as needed */
+    left: 10px;
+    /* Adjust as needed */
+    z-index: 1;
+    color: white;
+    /* Adjust text color for better visibility */
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
+
+main {
+    min-height: calc(100vh - 402.06px);
+}
+
+.video-embed {
+    width: 560px;
+    height: 315px;
+    border: 0;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(216, 159, 1);
+    color: black;
+    text-align: center;
+}
+
+.inline {
+    max-width: 200px;
+    max-height: 300px;
+    float: left;
+}
+
+.text {
+    font-size: 130%;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 400px;
+    max-width: 100%;
+} 
+
+#header_img {
+    background-image: url(../images/chalk.avif);
+    background-size: cover;
+    background-position: center;
+}
+
+.header {
+    text-align: center;
+}
+
+p {
+    margin-right: 150px;
+    margin-left: 80px;
+}
+
+#container {
+    text-align: center;
+}
+
+#navigation {
+    color: white;
+}
+
+body {
+    background-color: #0a0a08;
+    background-image: linear-gradient(red, yellow);
+    color: white;
+    min-height: calc(100vh - 402.06px);
+    background-image: url(../images/modern-gastronomic-background-z13r630gqpmwq4wj.jpg);
+    background-size: 1290px 2000px;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 150%;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
+
+main {
+    min-height: calc(100vh - 402.06px);
+}
+
+footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(216, 159, 1);
+    color: black;
+    text-align: center;
+}
+
+.inline {
+    max-width: 200px;
+    max-height: 300px;
+    float: left;
+}
+
+.text {
+    font-size: 130%;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 400px;
+    max-width: 100%;
+}  
+

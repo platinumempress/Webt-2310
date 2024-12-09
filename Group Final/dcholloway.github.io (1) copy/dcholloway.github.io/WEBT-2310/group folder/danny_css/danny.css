@@ -1,0 +1,210 @@
+body {
+    background-color: #ffdd00;
+    background: url(../images/gradient.jpg);
+    color: white;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+#header {
+    width: 100%;
+}
+
+#Welcome {
+    background-image: url(../images/perfomance.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+#hello {
+    background-image: url(../images/instrument.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#prohibido {
+    width: 50%;
+}
+
+#panel_bg {
+    width: 50%;
+}
+
+#panel_bg2 {
+    width: 50%;
+}
+
+#panel_bg3 {
+    width: 50%;
+}
+
+#bye {
+    background-image: url(../images/mic.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#yeah {
+    background-image: url(../images/wale.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#noo {
+    width: 50%;
+}
+
+#ramune {
+    width: 300px;
+    margin: 20px;
+}
+
+#ramuno {
+    width: 300px;
+    margin: 20px;
+}
+
+#ramun {
+    width: 300px;
+    margin: 20px;
+}
+
+#carouselExampleFade {
+    max-width: 100%;
+    margin: auto;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: auto;
+}
+
+.carousel-inner {
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel-item {
+    text-align: center;
+}
+
+/*Classes*/
+
+.img-fluid {
+    width: 100% !important;
+    height: 200px !important;
+    object-fit: cover !important;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.navbar a {
+    color: #732922;
+}
+
+.navbar li a:hover {
+    background-color: #98c1d9;
+}
+
+.navbar-toggler {
+    color: white;
+    border-color: #98c1d9;
+    background-color: #fff;
+}
+
+.dropdown-item {
+    background-color: white;
+}
+
+.nav-link.active {
+    color: #732922 !important;
+}
+
+.header {
+    width: fit-content;
+}
+
+.modal-title {
+    color: black;
+}
+
+.modal-body {
+    color: black;
+}
+
+.card-title {
+    color: #fff;
+}
+
+.card-text {
+    color: #fff;
+}
+
+.card {
+    object-position: center;
+}
+
+.card {
+    background-color: #606c38;
+}
+
+.btn {
+    color: #732922;
+}
+
+.btn:hover {
+    background-color: #c1fba4;
+}
+
+img,
+.container-fluid {
+    max-width: 100%;
+    text-align: justify;
+}
+
+table {
+    width: 100%;
+    background-color: #f6f6f646;
+}
+
+th,
+td {
+    border: 2px solid #af0a0a;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #bd0404;
+}
+
+/*tablet css*/
+
+@media (max-width: 768px) {
+    #header_img {
+        background-size: cover;
+        background-position: center;
+    }
+    #header {
+        width: 100%;
+        object-fit: cover !important;
+    }
+}
+
+/*desktop css*/
+
+@media (min-width:1024px) {
+    #panel_bg {
+        width: 50%;
+    }
+}
+
+img {
+    max-width: 100%;
+}

@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WEBGROUP</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="danny_css/danny.css">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#"></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="activity.html">Activities</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="DailyE.html">Daily Events</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="food.html">Food and Vendors</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="bands.html">Bands and Artists</a>
+                    </li>
+                </ul>
+                <form class="d-flex" role="search">
+                    <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                    <button class="btn btn-outline-success" type="submit">Search</button>
+                </form>
+            </div>
+        </div>
+    </nav>
+
+
+    <div class="container">
+
+        <div id="header_img" class="bg-light rounded-0">
+            <div class="container-fluid py-4">
+                <img id="header" class="d-block mx-auto" src="images/multiculture.jpg" alt="banner">
+                <button class="btn btn-warning rounded-0 mx-auto d-block mt-3" type="button" onclick="location.href='about.html'">About Us</button>
+            </div>
+        </div>
+
+    </div>
+    <div class="text-center">
+        <h1>Activities</h1>
+        <p>Get ready for a fun-filled day at our multicultural music festival! Explore our activity tents and discover new sounds, skills, and friends. Join our Music Workshop and learn to make your own instrument, or show off your skills at our Open Mic
+            Session. Test your knowledge at our Music Trivia Contest, or get moving with our Silent Disco and DJ Sets. Plus, don't miss our Collaborative Performance sessions, where you can jam with fellow music lovers and create unforgettable moments.
+            With something for everyone, our festival is the ultimate celebration of music, diversity, and community!</p>
+    </div>
+    <hr>
+    <div class="row">
+        <div class="col-md-6 col-lg-4">
+            <h2 class="text-center">Open Mic</h2>
+            <img class="img-fluid my-3 rounded-4" src="images/openmic.jpg" alt="banner">
+            <p>"Get ready to shine at our Open Mic session! This is your chance to take the stage and share your talents with the world. Whether you're a seasoned performer or just starting out, our Open Mic is the perfect platform to express yourself, showcase
+                your skills, and connect with like-minded music lovers. From spoken word and poetry to music and comedy, we welcome all forms of creative expression. So, come and join the fun, and let your voice be heard!"</p>
+        </div>
+
+        <div class="col-md-6 col-lg-4">
+            <h2 class="text-center">Music Trivia</h2>
+            <img class="img-fluid my-3 rounded-4" src="images/trivia.png" alt="banner">
+            <p>Think you're a music mastermind? Put your knowledge to the test at our Music Trivia Contest! With questions spanning genres, decades, and styles, you'll need to be a true music buff to take home the prize. Gather your friends, form a team,
+                and get ready to rock (or pop, or hip-hop...). Will you be the ultimate music champion?</p>
+        </div>
+
+        <div class="col-lg-4">
+            <h2 class="text-center">Collaborative performances</h2>
+            <img class="img-fluid my-3 rounded-4" src="images/duo.jpg" alt="">
+            <p>Experience the magic of spontaneous creativity at our Collaborative Performance sessions! Inspired by the art of freestyling, we're bringing together musicians, singers, and performers from diverse backgrounds to create something entirely
+                new and unique. Witness the spark of improvisation as artists come together, feeding off each other's energy and talent to produce unforgettable performances. Who knows what amazing collaborations will be born?"</p>
+        </div>
+    </div>
+
+
+
+    <hr>
+    <div class="row">
+    </div>
+    <hr>
+    <div id="Welcome" class="p-5 mb-4 bg-light rounded-0">
+        <div id="panel_bg" class="container-fluid py-5 bg-danger  rounded-3">
+            <h3>Schedule</h3>
+            <p>Morning Session (11:00 AM - 2:00 PM)</p>
+            <ul>
+                <li>11:00 AM - Gates Open </li>
+                <li>11:30 AM - 12:30 PM: Music Workshop (Instrument-Making)</li>
+                <li>12:45 PM - 1:45 PM: Live Performance (Cultural Showcase)</li>
+                <li>2:00 PM - 2:30 PM: Break (Food, Drinks, and Exploration)</li>
+            </ul>
+            <button class="btn btn-warning rounded-0 mx-auto d-block mt-3" type="button" onclick="location.href='about.html'">About Us</button>
+        </div>
+    </div>
+
+    <hr>
+    <div id="bye" class="p-5 mb-4 bg-light rounded-3">
+
+        <div id="panel_bg2" class="container-fluid py-5 bg-danger bg-light-25 rounded 3">
+            <h3>Afternoon Session (2:30 PM - 6:00 PM)
+            </h3>
+            <ul>
+                <li>2:30 PM - 3:30 PM: Open Mic Session</li>
+                <li>3:45 PM - 4:45 PM: Collaborative Performance (Freestyle Session)</li>
+                <li>5:00 PM - 6:00 PM: Live Performance (Headlining Act)</li>
+            </ul>
+            <button class="btn btn-warning rounded-0 mx-auto d-block mt-3" type="button" onclick="location.href='media.html'">Media!!!!</button>
+        </div>
+    </div>
+
+    <hr>
+    <div id="hello" class="p-5 mb-4 bg-light rounded-3">
+
+        <div id="panel_bg3" class="container-fluid py-5 bg-danger bg-light-25 rounded 3">
+            <h3>Evening Session (6:30 PM - 10:00 PM)
+            </h3>
+            <ul>
+                <li>6:30 PM - 7:30 PM: Music Trivia Contest</li>
+                <li>7:45 PM - 8:45 PM: Silent Disco</li>
+                <li>- 9:00 PM - 10:00 PM: DJ Set (Dance Party)</li>
+            </ul>
+            <button class="btn btn-warning rounded-0 mx-auto d-block mt-3" type="button" onclick="location.href='media.html'">Media!!!!</button>
+        </div>
+    </div>
+
+
+
+
+    <hr>
+    <div id="yes"></div>
+    <div class="row">
+        <div class="col-lg-12 py-5 text-center">
+            &copy;2024 Atlanta Rock and Flow. All rights reserved
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-lg-12 py-5 text-center">
+
+                <i class="fa-brands fa-facebook fs-3"></i>
+                <i class="fa-brands fa-instagram fs-3"></i>
+                <i class="fa-brands fa-youtube fs-3"></i>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
