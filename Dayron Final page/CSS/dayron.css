@@ -1,0 +1,86 @@
+#header_img {
+    background-image: url(../Images/chalk.avif);
+    background-size: cover;
+    background-position: center;
+    }
+
+    .header {
+        text-align: center;
+    }
+
+    p {
+      margin-right: 150px;
+      margin-left: 80px;
+    }
+
+    #container{
+        text-align: center;
+    }
+
+  #navigation {
+    color: white;
+  }
+
+    body {
+        background-color: #0a0a08;
+        background-image: linear-gradient(red, yellow);
+        color: white;
+        min-height: calc(100vh - 402.06px);
+    background-image: url(../Images/modern-gastronomic-background-z13r630gqpmwq4wj.jpg);
+    background-size: 1290px 2000px;
+    background-repeat: no-repeat;
+    background-position: center;
+        font-size: 150%;
+    }
+
+    .row {
+        display: flex;
+      }
+      
+      .column {
+        flex: 50%;
+      }
+    
+    main {
+    min-height: calc(100vh - 402.06px);
+    }
+    footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: rgb(216, 159, 1);
+        color: black;
+        text-align: center;
+      }
+    
+    .inline {
+        max-width: 200px;
+        max-height: 300px;
+        float: left;   
+    }
+    
+    .text {
+       font-size: 130%;
+       text-align: center;
+    }
+    
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+    
+    img {
+        padding: 0;
+        display: block;
+        margin: 0 auto;
+        max-height: 400px;
+        max-width: 100%;
+    }
